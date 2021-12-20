@@ -41,8 +41,6 @@ public class Ejercicio03 {
                 + "Elementos sobe de la media %d\n",
                 elementosAbajoMedia,
                 elementosArribaMedia);
-        System.out.println("media: " + media);
-        System.out.println("suma: " + suma);
 
     }
 
